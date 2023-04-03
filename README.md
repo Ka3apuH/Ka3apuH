@@ -7,24 +7,10 @@
 </div>
 
 # 💫 About Me:
-....
-.......
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+...
 
-# 📈 GitHub Stats:
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=Ka3apuH&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ka3apuH&theme=react&hide_border=false)<br/>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ka3apuH&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+.....
 
 # 🛠️ Languages and tools
 
@@ -37,12 +23,23 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+# 📈 GitHub Stats:
 
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=Ka3apuH&theme=default#gh-light-mode-only&hide_border=false&include_all_commits=true&count_private=true&col)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Ka3apuH&theme=default#gh-light-mode-only&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ka3apuH&theme=default#gh-light-mode-only&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 # ️ ️📊️ My WakaTime Coding Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@Ka3apuH&theme=github_dark"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@Ka3apuH&theme=github_white"/>
 </div>
 
 
