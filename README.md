@@ -27,12 +27,6 @@
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=Ka3apuH&theme=default#gh-light-mode-only&hide_border=false&include_all_commits=true&count_private=true&col)
-
-![Kirill's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ka3apuH&show_icons=true&theme=transparent)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ka3apuH&theme=default#gh-light-mode-only&hide_border=false)
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ka3apuH&theme=default#gh-light-mode-only&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 </div>
 
