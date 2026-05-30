@@ -34,9 +34,8 @@
 
 # ️ ️📊️ My WakaTime Coding Activity
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@Ka3apuH&theme=github_white"/>
-</div>
+
+https://github-readme-stats.vercel.app/api/wakatime?username=Ka3apuH)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
